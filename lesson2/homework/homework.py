@@ -10,10 +10,10 @@ print(user_input % user_input_1)
 # Ask the user for their favorite animal and favorite color.
 # Print a sentence combining them like: "A blue tiger would be awesome!"
 
-Steve_input = input("what is your favroite animal?")
-Meandyouandsteve = input("what is your favroite color???")
+cheese_input = input("what is your favroite animal?")
+cheese = input("what is your favroite color???")
 
-print("A" meandyouandsteve, Steve_input, "that sounds...intresting. Not bad just...Intresting")
+print("A" cheese, cheese_input, "that sounds...intresting. Not bad just...Intresting")
            
 # Homework Problem 3
 # Use a for loop to print all the even numbers from 0 to 10 (including 10).
